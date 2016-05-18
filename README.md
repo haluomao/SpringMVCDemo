@@ -37,4 +37,13 @@ Welcome to visit my personal blog: [Gaussic](http://gaussic.top)
 如果你有什么问题，或者宝贵的意见，可以在Issues中提出，我会及时回应。谢谢关注 :)
 
 欢迎访问我的个人博客首页：[Gaussic](http://gaussic.top)
+-----
+上面是原作者的话，一个链接到大神对该项目的详细介绍： http://my.oschina.net/gaussik/blog/385697
 
+
+如果遇到filter问题，可以考虑：
+
+    <web-app xmlns="http://java.sun.com/xml/ns/javaee"    
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+             xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"  
+             version="3.0">  
